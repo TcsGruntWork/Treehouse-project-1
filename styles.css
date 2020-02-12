@@ -21,6 +21,13 @@ a:hover {
   color: #6633ff;
 }
 
+.article-img {
+  width:100%;
+  height:200px;
+  border:2px solid #dadada;
+  padding:2px;
+}
+
 /* Section Styles */
 
 .main-nav {
@@ -57,7 +64,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/durham.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
